@@ -40,6 +40,9 @@ Hard
 * For any page, click on the `WWHNS` button in your bookmark toolbar
 * Push the changes back to me.  I'd love to see what you do with it!
 
+# License
+BSD
+
 # Shoutouts
 [Ronnie Roller](http://twitter.com/ronnieroller)--For an awesome [HN API](http://api.ihackernews.com/)  
 [YUI Compressor](https://developer.yahoo.com/yui/compressor/)--Makes JavaScript small  
