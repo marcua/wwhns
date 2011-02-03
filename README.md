@@ -12,7 +12,7 @@ link after some time. Other times, I find a link through RSS and want to know
 if there is an HN thread on the topic.
 
 The WWHNS bookmarklet, when clicked, looks the current page up in [Ronnie
-Roller's wonderful Unofficial HN API](http://api.ihackernews.com/), and
+Roller's wonderful HN API](http://api.ihackernews.com/), and
 adds a link to the top right of the current page to any existing HN comment
 threads.
 
@@ -21,7 +21,7 @@ I tested it in Chrome and Firefox.  Let me know if it works in other browsers.
 # To use WWHNS
 Easy
 
-* Follow the instructions [On my blog]() (not linkbait: github is escaping my link because it contains javascript)
+* Follow the instructions [On my blog]() (not linkbait: github escapes my bookmarklet link because it contains javascript)
 * For any page, click on the `WWHNS` button in your bookmark toolbar.
 
 Hard
@@ -45,7 +45,7 @@ Hard
 BSD
 
 # Shoutouts
-[Ronnie Roller](http://twitter.com/ronnieroller)--For an awesome [HN API](http://api.ihackernews.com/)  
+[Ronnie Roller](http://twitter.com/#!/ronnieroller)--For an awesome [HN API](http://api.ihackernews.com/)  
 [YUI Compressor](https://developer.yahoo.com/yui/compressor/)--Makes JavaScript small  
 [Hacker News](http://news.ycombinator.com/)--For having comment threads worth reading  
 [Ben Alman](http://benalman.com/projects/run-jquery-code-bookmarklet/)--For the jQuery bookmarklet HOWTO
