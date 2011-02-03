@@ -5,10 +5,11 @@ if there is a [Hacker News](http://news.ycombinator.com/) (HN) discussion about
 a page you are currently viewing.
 
 I used to visit HN through its website, but have moved over to following
-[@newsyc20](http://twitter.com/#!/newsyc20) on Twitter more and more.
+[@newsyc20](http://twitter.com/#!/newsyc20) on Twitter.
 While a comment thread link is provided in each Tweet, I often batch up a
 bunch of stories to read at once, and lose context of the HN comment thread
-link after some time.
+link after some time. Other times, I find a link through RSS and want to know
+if there is an HN thread on the topic.
 
 The WWHNS bookmarklet, when clicked, looks the current page up in [Ronnie
 Roller's wonderful Unofficial HN API](http://api.ihackernews.com/), and
