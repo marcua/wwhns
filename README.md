@@ -26,12 +26,19 @@ Easy
 Hard
 
 * Check out this git repository
-* Write type `make`
+* Type `make`
 * Open `wwhns.html` in a browser
 * Copy the `WWHNS` link to your bookmark toolbar
 * For any page, click on the `WWHNS` button in your bookmark toolbar
 
 # To edit the bookmarklet
+* Fork this git repository
+* Edit `wwhns.js`
+* Type `make`
+* Open `wwhns.html` in a browser
+* Copy the `WWHNS` link to your bookmark toolbar
+* For any page, click on the `WWHNS` button in your bookmark toolbar
+* Push the changes back to me.  I'd love to see what you do with it!
 
 # Shoutouts
 [Ronnie Roller](http://twitter.com/ronnieroller)--For an awesome [HN API](http://api.ihackernews.com/)  
