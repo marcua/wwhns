@@ -18,6 +18,11 @@ threads.
 
 I tested it in Chrome and Firefox.  Let me know if it works in other browsers.
 
+Caveat: This bookmarklet will work for links you followed by way of HN or
+another source which replicates it.  It may not work if you arrived at a
+page from a source outside of HN, since that link might be slightly
+different from the one posted to HN.
+
 # To use WWHNS
 Easy
 
