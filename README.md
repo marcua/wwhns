@@ -27,6 +27,6 @@ to your bookmark toolbar.
 # To edit the bookmarklet
 
 # Shoutouts
-[Ronnie Roller](http://twitter.com/ronnieroller)--For an awesome [HN API](http://api.ihackernews.com/)
-[YUI Compressor](https://developer.yahoo.com/yui/compressor/)--Makes JavaScript small
-Hacker News--For having comment threads worth reading
+[Ronnie Roller](http://twitter.com/ronnieroller)--For an awesome [HN API](http://api.ihackernews.com/)  
+[YUI Compressor](https://developer.yahoo.com/yui/compressor/)--Makes JavaScript small  
+Hacker News--For having comment threads worth reading  
