@@ -1,6 +1,6 @@
 # What Would Hacker News Say?
 
-What Would Hacker News Say (WWHNS) is a bookmarklet which allows you to see
+What Would Hacker News Say (WWHNS) is a bookmarklet that allows you to see
 if there is a [Hacker News](http://news.ycombinator.com/) (HN) discussion about
 a page you are currently viewing.
 
