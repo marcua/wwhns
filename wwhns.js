@@ -1,6 +1,3 @@
-// 1) Go to http://benalman.com/code/test/jquery-run-code-bookmarklet/
-// 2) Use jQuery >= 1.4.2
-// 3) Copy and paste the following code
 $.get("http://api.ihackernews.com/getid",
       {
           format: "jsonp", 
