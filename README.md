@@ -4,12 +4,8 @@ What Would Hacker News Say (WWHNS) is a bookmarklet that allows you to see
 if there is a [Hacker News](http://news.ycombinator.com/) (HN) discussion about
 a page you are currently viewing.
 
-I used to visit HN through its website, but have moved over to following
-[@newsyc20](http://twitter.com/#!/newsyc20) on Twitter.
-While a comment thread link is provided in each Tweet, I often batch up a
-bunch of stories to read at once, and lose context of the HN comment thread
-link after some time. Other times, I find a link through RSS and want to know
-if there is an HN thread on the topic.
+I often find a link through a feed reader or Twitter and want to know if there is an HN thread discussing the link.  This happens more often now that I have moved over to following
+[@newsyc20](http://twitter.com/#!/newsyc20) on Twitter rather than visiting the HN website directly.  I batch up a bunch of stories to read at once, and lose context of which HN thread pointed to that page.
 
 The WWHNS bookmarklet, when clicked, looks the current page up in [Ronnie
 Roller's wonderful HN API](http://api.ihackernews.com/), and
