@@ -46,7 +46,7 @@ Hard
 BSD
 
 # Shoutouts
+[Ben Alman](http://benalman.com/projects/run-jquery-code-bookmarklet/)--For the jQuery bookmarklet HOWTO
 [Ronnie Roller](http://twitter.com/#!/ronnieroller)--For an awesome [HN API](http://api.ihackernews.com/)  
 [YUI Compressor](https://developer.yahoo.com/yui/compressor/)--Makes JavaScript small  
 [Hacker News](http://news.ycombinator.com/)--For having comment threads worth reading  
-[Ben Alman](http://benalman.com/projects/run-jquery-code-bookmarklet/)--For the jQuery bookmarklet HOWTO
