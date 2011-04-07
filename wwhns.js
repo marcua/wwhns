@@ -4,7 +4,7 @@ $.get("http://api.ihackernews.com/getid",
           url:window.location.href
       },
       function(data) {
-        var div = "<div id='__wwhns__' style='margin: 5px; padding: 5px; text-align:left; font: 14px Helvetica;display:block; position:absolute; height:300px; top:0; right:0; width:350px; background:#FFFFFF; border:1px solid #ddd;'>";
+        var div = "<div id='__wwhns__' style='margin: 5px; padding: 5px; text-align:left; font: 14px Helvetica;display:block; position:absolute; height:300px; top:0; right:0; width:350px; background:#FFFFFF; border:1px solid #ddd; z-index:1000;'>";
         div = div + "<a href='#' id='__wwhns_close__'>Close</a>"
         if (data.length > 0) {
             div = div + "<ul>"

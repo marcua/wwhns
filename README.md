@@ -22,7 +22,7 @@ different from the one posted to HN.
 # To use WWHNS
 Easy
 
-* Follow the instructions [On my blog]() (not linkbait: github escapes my bookmarklet link because it contains javascript)
+* Follow the instructions [On my blog](http://blog.marcua.net/post/3096216094/wwhns) (not linkbait: github escapes my bookmarklet link because it contains javascript)
 * For any page, click on the `WWHNS` button in your bookmark toolbar.
 
 Hard
